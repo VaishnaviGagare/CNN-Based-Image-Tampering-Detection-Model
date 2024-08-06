@@ -14,4 +14,10 @@ The forgery detection tool contained in this repository currently features foren
 - String Extraction
 - For More Detail - [Research Paper](https://www.ijcrt.org/papers/IJCRT24A5072.pdf)
 
-
+#Screenshots
+<div align="center">
+    <img src="https://github.com/VaishnaviGagare/CNN-Based-Image-Tampering-Detection-Model/blob/main/Output/4.png" width="600px"</img> 
+</div>
+<div align="center">
+    <img src="https://github.com/VaishnaviGagare/CNN-Based-Image-Tampering-Detection-Model/blob/main/Output/6.png" width="550px"</img> 
+</div>
