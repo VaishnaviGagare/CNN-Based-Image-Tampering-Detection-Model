@@ -1,4 +1,4 @@
-# Image Tampering Detection Model
+# Image Tampering Prediction & Detection Model
 With the prevalence of powerful image editing tools, the misuse of digitally manipulated images has become a significant issue in today's society, leading to fraudulent and deceptive purposes. This project aims to leverage deep learning, specifically Convolutional Neural Networks (CNNs), to detect various types of image forgeries such as copy-move, splicing, and retouching The aim of the proposed system is to detect and highlight the malpractices performed on modern-day digital images.
 
 # Image Forgery Detection Tool
